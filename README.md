@@ -1,5 +1,7 @@
 ![https://github.com/Abdulhaseebimran/Abdulhaseebimran/blob/main/background.jpeg](https://github.com/Noman-Nom/Noman-Nom/blob/main/baner.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noman-nom&label=Profile%20views&color=0e75b6&style=flat" alt="noman-nom" /> </p>
+
 
 <h4 align="center">
   
