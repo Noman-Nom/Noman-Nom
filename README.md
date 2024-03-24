@@ -45,7 +45,7 @@
 ## GitHub over time
 [![Noman-Nom GitHub | Stats](https://stats.quine.sh/Noman-Nom/github?theme=light)](https://quine.sh)
 [![Noman-Nom's GitHub | Dependencies](https://stats.quine.sh/Noman-Nom/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Noman-Nom)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oman-Nom&show_icons=true&locale=en&layout=compact" alt="noman-nom" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Noman-Nom&show_icons=true&locale=en&layout=compact" alt="noman-nom" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noman-nom&show_icons=true&locale=en" alt="noman-nom" /></p>
 <p><img align="center" 
 
