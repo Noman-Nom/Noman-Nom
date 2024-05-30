@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/muhammad-noman-770825277/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/muhammadnoman.awan.73?mibextid=ZbWKwL" target="_blank">
+<!-- <a href="https://www.facebook.com/muhammadnoman.awan.73?mibextid=ZbWKwL" target="_blank"> -->
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/nomitechh/?utm_source=qr&igshid=OGIxMTE0OTdkZA%3D%3D" target="_blank">
