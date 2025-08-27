@@ -26,11 +26,10 @@
 
 ---
 
+
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Noman-Nom&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Noman-Nom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 📊 GitHub Stats
