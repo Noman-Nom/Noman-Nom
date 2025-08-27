@@ -29,10 +29,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Noman-Nom&theme=gruvbox&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Noman-Nom&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 
